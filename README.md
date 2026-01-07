@@ -1,5 +1,14 @@
 # Hi 👋 I'm Avinash Kumar
 
+## 📊 GitHub Stats
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash-kumar-101&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=avinash-kumar-101&theme=tokyonight)
+
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-kumar-101&layout=compact&theme=tokyonight)
+
 🎓 Final Year B.Tech Computer Science Engineering Student  
 💻 Full Stack Developer (MERN) | AI & SQL Enthusiast | Cybersecurity (VAPT)  
 🚀 Passionate about building scalable, high-performance, real-world applications  
@@ -20,6 +29,11 @@ I have gained industry exposure through internships at Celebal Technologies, Hig
 
 ## 💼 Technical Skills
 
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,git,github,tailwind,bootstrap,java,c,cpp,python" />
+</p>
 **Languages:** C, C++, Java, JavaScript (ES6+), SQL  
 **Frontend:** React.js, HTML5, CSS3, Bootstrap, Tailwind CSS  
 **Backend:** Node.js, Express.js, REST APIs, JWT, OAuth  
