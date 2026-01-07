@@ -1,4 +1,11 @@
-# Hi 👋 I'm Avinash Kumar
+# 👋 Hi, I'm Avinash Kumar
+
+### Full Stack Developer | MERN | AIML & SQL | Cybersecurity (VAPT)  
+Final Year B.Tech Computer Science Engineering Student passionate about building scalable, high-performance, real-world applications.
+
+📍 India
+
+---
 
 ## 📊 GitHub Stats
 ![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash-kumar-101&show_icons=true&theme=tokyonight)
@@ -9,11 +16,6 @@
 ## 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-kumar-101&layout=compact&theme=tokyonight)
 
-🎓 Final Year B.Tech Computer Science Engineering Student  
-💻 Full Stack Developer (MERN) | AI & SQL Enthusiast | Cybersecurity (VAPT)  
-🚀 Passionate about building scalable, high-performance, real-world applications  
-📍 India  
-
 ---
 
 ## 🧠 About Me
@@ -23,17 +25,16 @@ I enjoy building real-world projects that solve practical problems and improve u
 
 I have worked on an AI-powered Smart Meeting Assistant that reduced manual documentation effort by 70%, and a Movie Discovery Platform optimized for performance and UI.
 
-I have gained industry exposure through internships at Celebal Technologies, HighRadius, and Offdef Cyber Solutions.
+I have gained industry exposure through internships at **Celebal Technologies, HighRadius, and Offdef Cyber Solutions**.
 
 ---
 
-## 💼 Technical Skills
-
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,git,github,tailwind,bootstrap,java,c,cpp,python" />
 </p>
+
 **Languages:** C, C++, Java, JavaScript (ES6+), SQL  
 **Frontend:** React.js, HTML5, CSS3, Bootstrap, Tailwind CSS  
 **Backend:** Node.js, Express.js, REST APIs, JWT, OAuth  
@@ -44,15 +45,15 @@ I have gained industry exposure through internships at Celebal Technologies, Hig
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🤖 Smart Meeting Assistant (AI Video Platform)
+### 🤖 Smart Meeting Assistant – AI Video Platform
 - Real-time video conferencing platform using Next.js and Stream SDK  
 - Integrated Gemini AI for automatic meeting summaries and action points  
-- Reduced manual documentation effort by 70%  
+- Reduced manual documentation effort by **70%**  
 - Optimized API architecture for high performance and accuracy  
 
-👉 GitHub: https://github.com/avinash-kumar-101/Smart-Meeting-Assistant
+🔗 https://github.com/avinash-kumar-101/Smart-Meeting-Assistant
 
 ---
 
@@ -60,9 +61,9 @@ I have gained industry exposure through internships at Celebal Technologies, Hig
 - Built using React.js and TMDB API  
 - Real-time movie search and trailer playback  
 - Custom CSS3 (Flexbox, Grid, Responsive Design)  
-- Reduced search latency by 40% using React Hooks and LocalStorage  
+- Reduced search latency by **40%** using React Hooks and LocalStorage  
 
-👉 GitHub: https://github.com/avinash-kumar-101/flickfinder
+🔗 https://github.com/avinash-kumar-101/flickfinder
 
 ---
 
@@ -70,23 +71,23 @@ I have gained industry exposure through internships at Celebal Technologies, Hig
 - Personal portfolio to showcase projects and skills  
 - Clean UI and fully responsive design  
 
-👉 GitHub: https://github.com/avinash-kumar-101/avinash-portfolio
+🔗 https://github.com/avinash-kumar-101/avinash-portfolio
 
 ---
 
 ## 🏢 Internship Experience
 
 ### Celebal Technologies – SQL Intern (June – Aug 2025)
-- Optimized SQL queries improving performance by 30%  
-- Ensured 100% data accuracy in testing environments  
+- Optimized SQL queries improving performance by **30%**  
+- Ensured **100% data accuracy** in testing environments  
 
 ### HighRadius Technologies – Marketing Intern (May – June 2025)
-- Improved lead engagement by 20%  
+- Improved lead engagement by **20%**  
 - Worked on data-driven outreach optimization  
 
 ### Offdef Cyber Solutions – Ethical Hacking Intern (June – July 2024)
-- Performed VAPT on 5+ applications  
-- Identified vulnerabilities and reduced attack surface by 25%  
+- Performed VAPT on **5+ applications**  
+- Identified vulnerabilities and reduced attack surface by **25%**  
 - Applied OWASP Top 10 security practices  
 
 ---
@@ -106,4 +107,4 @@ I have gained industry exposure through internships at Celebal Technologies, Hig
 
 ---
 
-✨ Always learning. Always building. Always improving.
+✨ *Always learning. Always building. Always improving.*
