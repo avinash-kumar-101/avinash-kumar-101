@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Avinash Kumar
+# 👋 Hi, I'm Avinash Kumar  
 
-### Full Stack Developer | MERN | AIML & SQL | Cybersecurity (VAPT)  
-Final Year B.Tech Computer Science Engineering Student passionate about building scalable, high-performance, real-world applications.
-
-📍 India
+### Full Stack Developer (MERN) | AI/ML & SQL | Cybersecurity (VAPT)  
+Final Year B.Tech Computer Science Engineering Student at Chandigarh Engineering College passionate about building scalable, high-performance, real-world applications.  
+📍 India  
 
 ---
 
@@ -20,10 +19,10 @@ Final Year B.Tech Computer Science Engineering Student passionate about building
 
 ## 🧠 About Me
 
-I am a highly motivated Computer Science student with strong hands-on experience in Full Stack Development, SQL optimization, AI integration, and Cybersecurity (VAPT).  
+I am a highly motivated Computer Science student with strong hands-on experience in **Full Stack Development (MERN), SQL optimization, AI integration, and Cybersecurity (VAPT)**.  
 I enjoy building real-world projects that solve practical problems and improve user experience.
 
-I have worked on an AI-powered Smart Meeting Assistant that reduced manual documentation effort by 70%, and a Movie Discovery Platform optimized for performance and UI.
+I have worked on an **AI-powered Smart Meeting Assistant** that reduced manual documentation effort by **70%**, and a **Movie Discovery Platform** optimized for performance and UI.
 
 I have gained industry exposure through internships at **Celebal Technologies, HighRadius, and Offdef Cyber Solutions**.
 
@@ -48,8 +47,8 @@ I have gained industry exposure through internships at **Celebal Technologies, H
 ## 🚀 Featured Projects
 
 ### 🤖 Smart Meeting Assistant – AI Video Platform
-- Real-time video conferencing platform using Next.js and Stream SDK  
-- Integrated Gemini AI for automatic meeting summaries and action points  
+- Real-time video conferencing platform using **Next.js and Stream SDK**  
+- Integrated **Gemini AI** for automatic meeting summaries and action points  
 - Reduced manual documentation effort by **70%**  
 - Optimized API architecture for high performance and accuracy  
 
@@ -58,9 +57,9 @@ I have gained industry exposure through internships at **Celebal Technologies, H
 ---
 
 ### 🎬 FlickFinder – Movie Discovery Platform
-- Built using React.js and TMDB API  
+- Built using **React.js and TMDB API**  
 - Real-time movie search and trailer playback  
-- Custom CSS3 (Flexbox, Grid, Responsive Design)  
+- Custom **CSS3 (Flexbox, Grid, Responsive Design)**  
 - Reduced search latency by **40%** using React Hooks and LocalStorage  
 
 🔗 https://github.com/avinash-kumar-101/flickfinder
@@ -96,14 +95,6 @@ I have gained industry exposure through internships at **Celebal Technologies, H
 - Advanced Full Stack Development  
 - AI integration in web applications  
 - System design and performance optimization  
-
----
-
-## 📫 Connect With Me
-
-📧 Email: ak4234k@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/avinash-kumar-dev1  
-🌐 GitHub: https://github.com/avinash-kumar-101  
 
 ---
 
