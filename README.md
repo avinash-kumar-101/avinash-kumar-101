@@ -1,15 +1,11 @@
 <table>
   <tr>
-    <td colspan="2">
-      <img src="./assets/hero-section-label.svg" width="178" alt="1 Hero Section" />
+    <td width="40%" valign="middle" align="center">
+      <img src="./assets/hero-identity-card.svg" width="92%" alt="Animated identity scan card for Avinash Kumar" />
     </td>
-  </tr>
-  <tr>
-    <td width="38%" valign="top">
-      <img src="./assets/hero-identity-card.svg" width="100%" alt="Animated identity scan card for Avinash Kumar" />
-    </td>
-    <td width="62%" valign="middle">
-      <h1>Hi, I'm<br />Avinash<br />Kumar</h1>
+    <td width="60%" valign="middle">
+      <br />
+      <h1>Hi, I'm Avinash Kumar</h1>
       <h3>Full Stack Developer<br />React.js &bull; Next.js &bull; Node.js</h3>
       <p>
         Building scalable web applications with modern JavaScript technologies.
@@ -25,18 +21,20 @@
         </tr>
       </table>
       <p>
-        <a href="#featured-projects">
-          <img src="https://img.shields.io/badge/View%20Projects-0D6EFD?style=for-the-badge&labelColor=0D6EFD&color=0D6EFD" alt="View projects" />
+        <a href="https://avinashdev.vercel.app">
+          <img src="https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&labelColor=0D6EFD&color=0D6EFD" alt="Portfolio" />
         </a>
-      </p>
-      <p>
         <a href="https://github.com/avinash-kumar-101">
           <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="GitHub" />
         </a>
         <a href="https://www.linkedin.com/in/avinash-kumar-dev1">
           <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827" alt="LinkedIn" />
         </a>
+        <a href="mailto:ak4234q@gmail.com">
+          <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827" alt="Email" />
+        </a>
       </p>
+      <br />
     </td>
   </tr>
 </table>
