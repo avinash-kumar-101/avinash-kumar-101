@@ -1,70 +1,59 @@
-<div align="center">
-
-<img src="https://github.com/avinash-kumar-101.png?size=180" width="126" height="126" alt="Avinash Kumar" />
-
-# Avinash Kumar
-
-**Full Stack Developer focused on MERN, Next.js, SQL performance, and AI-enabled product workflows**
-
-<a href="mailto:ak4234q@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ak4234q%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=111827" alt="Email Avinash Kumar" />
-</a>
-<a href="https://www.linkedin.com/in/avinash-kumar-dev1">
-  <img src="https://img.shields.io/badge/LinkedIn-avinash--kumar--dev1-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=111827" alt="LinkedIn profile" />
-</a>
-<a href="https://github.com/avinash-kumar-101">
-  <img src="https://img.shields.io/badge/GitHub-avinash--kumar--101-0D1117?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=111827" alt="GitHub profile" />
-</a>
-<img src="https://img.shields.io/badge/Bhagalpur%2C%20Bihar-India-0D1117?style=flat-square&labelColor=111827&color=1F6FEB" alt="Bhagalpur, Bihar, India" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./assets/identity-scan.svg" width="100%" alt="Animated identity scan for Avinash Kumar" />
-</div>
-
-<br />
-
 <table>
   <tr>
-    <td width="34%" valign="top">
-      <h3>Identity</h3>
+    <td colspan="2">
+      <sub><strong>01&nbsp;&nbsp;/&nbsp;&nbsp;HERO SECTION</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="39%" valign="top">
+      <img src="./assets/hero-identity-card.svg" width="100%" alt="Animated identity scan card for Avinash Kumar" />
+    </td>
+    <td width="61%" valign="middle">
+      <h1>Hi, I'm<br />Avinash Kumar</h1>
+      <h3>Full Stack Developer<br />React.js &bull; Next.js &bull; Node.js</h3>
+      <p>
+        Building scalable web applications with modern JavaScript technologies.
+      </p>
+      <p>
+        I enjoy transforming ideas into polished digital products by combining intuitive user experiences, robust backend architecture, and AI-powered solutions that solve real-world problems.
+      </p>
+      <blockquote>
+        Building products that are fast, scalable, and built for real users.
+      </blockquote>
+      <p>
+        <a href="#featured-projects">
+          <img src="https://img.shields.io/badge/View%20Projects-0D6EFD?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D6EFD" alt="View projects" />
+        </a>
+        <a href="https://github.com/avinash-kumar-101">
+          <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="GitHub" />
+        </a>
+        <a href="https://www.linkedin.com/in/avinash-kumar-dev1">
+          <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827" alt="LinkedIn" />
+        </a>
+        <a href="mailto:ak4234q@gmail.com">
+          <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827" alt="Email" />
+        </a>
+      </p>
       <table>
         <tr>
-          <td><sub><strong>ROLE</strong></sub></td>
-          <td>Full Stack Developer</td>
-        </tr>
-        <tr>
-          <td><sub><strong>BASE</strong></sub></td>
-          <td>Bhagalpur, Bihar, India</td>
-        </tr>
-        <tr>
-          <td><sub><strong>EDUCATION</strong></sub></td>
-          <td>B.Tech CSE, Chandigarh Engineering College, 2026</td>
-        </tr>
-        <tr>
-          <td><sub><strong>CGPA</strong></sub></td>
-          <td>7.5</td>
-        </tr>
-        <tr>
-          <td><sub><strong>STATUS</strong></sub></td>
-          <td>Open to full-time software engineering roles</td>
+          <td align="center" width="25%">
+            <strong>5</strong><br />
+            <sub>Internships</sub>
+          </td>
+          <td align="center" width="25%">
+            <strong>2</strong><br />
+            <sub>Featured Projects</sub>
+          </td>
+          <td align="center" width="25%">
+            <strong>1+</strong><br />
+            <sub>Year Experience</sub>
+          </td>
+          <td align="center" width="25%">
+            <strong>2026</strong><br />
+            <sub>B.Tech CSE</sub>
+          </td>
         </tr>
       </table>
-    </td>
-    <td width="66%" valign="top">
-      <h3>Engineer Profile</h3>
-      <p>
-        I am a 2026 Computer Science graduate with 1+ year of hands-on industry experience across five internships in full-stack development, SQL/database engineering, and cybersecurity.
-      </p>
-      <p>
-        My work sits at the intersection of React and Next.js interfaces, Node.js and Express APIs, MongoDB and MySQL data systems, Gemini AI integration, and OWASP-based security testing.
-      </p>
-      <p>
-        I focus on software that reads cleanly, behaves predictably, and can survive real product use after the first release.
-      </p>
     </td>
   </tr>
 </table>
