@@ -1,8 +1,8 @@
-﻿<svg width="360" height="520" viewBox="0 0 360 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+﻿<svg width="360" height="560" viewBox="0 0 360 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Identity scan card for Avinash Kumar</title>
   <desc id="desc">A premium dark identity scan card with avatar, verification badge, fingerprint, and profile details.</desc>
   <defs>
-    <linearGradient id="cardBg" x1="28" y1="18" x2="332" y2="502" gradientUnits="userSpaceOnUse">
+    <linearGradient id="cardBg" x1="28" y1="18" x2="332" y2="542" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/>
       <stop offset="0.55" stop-color="#0D1117"/>
       <stop offset="1" stop-color="#071827"/>
@@ -31,10 +31,10 @@
     </filter>
   </defs>
 
-  <rect x="1" y="1" width="358" height="518" rx="26" fill="#060B12" stroke="#30363D"/>
-  <path d="M42 18H318L342 42V478L318 502H42L18 478V42L42 18Z" fill="url(#cardBg)" stroke="#1F6FEB" stroke-opacity="0.66"/>
-  <path d="M56 34H304L326 56V464L304 486H56L34 464V56L56 34Z" fill="url(#blueGlow)" stroke="#58A6FF" stroke-opacity="0.22"/>
-  <rect x="44" y="48" width="272" height="424" rx="12" fill="url(#grid)" opacity="0.85"/>
+  <rect x="1" y="1" width="358" height="558" rx="26" fill="#060B12" stroke="#30363D"/>
+  <path d="M42 18H318L342 42V518L318 542H42L18 518V42L42 18Z" fill="url(#cardBg)" stroke="#1F6FEB" stroke-opacity="0.66"/>
+  <path d="M56 34H304L326 56V504L304 526H56L34 504V56L56 34Z" fill="url(#blueGlow)" stroke="#58A6FF" stroke-opacity="0.22"/>
+  <rect x="44" y="48" width="272" height="464" rx="12" fill="url(#grid)" opacity="0.85"/>
 
   <g opacity="0.95">
     <path d="M60 92V70H96" stroke="#58A6FF" stroke-width="2"/>
@@ -75,15 +75,20 @@
     <text x="154" y="346" font-size="13" font-weight="650" fill="#E6EDF3">Full Stack Developer</text>
     <text x="58" y="376" font-size="11" font-weight="800" letter-spacing="1.6" fill="#8B949E">LOCATION</text>
     <text x="154" y="376" font-size="13" font-weight="650" fill="#E6EDF3">Bhagalpur, Bihar</text>
-    <text x="58" y="406" font-size="11" font-weight="800" letter-spacing="1.6" fill="#8B949E">STACK</text>
-    <text x="154" y="406" font-size="13" font-weight="650" fill="#E6EDF3">MERN | Next.js | SQL</text>
-    <text x="58" y="436" font-size="11" font-weight="800" letter-spacing="1.6" fill="#8B949E">STATUS</text>
-    <text x="154" y="436" font-size="13" font-weight="750" fill="#3FB950">Open to Opportunities</text>
+    <text x="58" y="406" font-size="11" font-weight="800" letter-spacing="1.6" fill="#8B949E">EDUCATION</text>
+    <text x="154" y="406" font-size="13" font-weight="650" fill="#E6EDF3">B.Tech CSE (2026)</text>
+    <text x="58" y="436" font-size="11" font-weight="800" letter-spacing="1.6" fill="#8B949E">STACK</text>
+    <text x="154" y="436" font-size="13" font-weight="650" fill="#E6EDF3">MERN Stack</text>
+    <text x="58" y="466" font-size="11" font-weight="800" letter-spacing="1.6" fill="#8B949E">STATUS</text>
+    <text x="154" y="466" font-size="13" font-weight="750" fill="#3FB950">Open to Opportunities</text>
   </g>
 
-  <g transform="translate(180 470)" stroke="#58A6FF" stroke-opacity="0.82" filter="url(#glow)">
-    <path d="M0-28c18 0 28 12 28 28M0-20c13 0 20 8 20 20M0-12c8 0 12 5 12 12M0-28c-18 0-28 12-28 28M0-20c-13 0-20 8-20 20M0-12c-8 0-12 5-12 12" stroke-width="2" stroke-linecap="round"/>
-    <path d="M0-34c25 0 38 15 38 34M0-34c-25 0-38 15-38 34" stroke-width="1.6" stroke-linecap="round" opacity="0.55"/>
+  <g transform="translate(180 506)" stroke="#58A6FF" stroke-opacity="0.88" filter="url(#glow)">
+    <path d="M0-42c27 0 43 18 43 43M0-34c22 0 35 14 35 35M0-26c17 0 27 11 27 27M0-18c11 0 18 7 18 19M0-10c6 0 10 4 10 11" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M0-42c-27 0-43 18-43 43M0-34c-22 0-35 14-35 35M0-26c-17 0-27 11-27 27M0-18c-11 0-18 7-18 19M0-10c-6 0-10 4-10 11" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M-34 7c8 13 19 20 34 20s26-7 34-20M-24 8c6 8 14 12 24 12s18-4 24-12M-13 7c3 4 7 6 13 6s10-2 13-6" stroke-width="2.2" stroke-linecap="round" opacity="0.72"/>
+    <circle cx="0" cy="1" r="52" stroke-width="1.4" opacity="0.18"/>
   </g>
-  <text x="180" y="502" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="750" letter-spacing="1.4" fill="#58A6FF">VERIFICATION 100%</text>
+  <rect x="78" y="526" width="204" height="22" rx="11" fill="#071827" stroke="#1F6FEB" stroke-opacity="0.35"/>
+  <text x="180" y="542" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="750" letter-spacing="1.4" fill="#58A6FF">VERIFICATION 100%</text>
 </svg>

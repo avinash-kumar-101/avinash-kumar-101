@@ -1,0 +1,6 @@
+<svg width="178" height="34" viewBox="0 0 178 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Hero Section</title>
+  <circle cx="17" cy="17" r="14" fill="#061528" stroke="#1F6FEB" stroke-width="1.4"/>
+  <text x="17" y="22" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#DDEBFF">1</text>
+  <text x="44" y="22" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.4" fill="#E6EDF3">HERO SECTION</text>
+</svg>
