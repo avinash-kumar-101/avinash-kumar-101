@@ -8,7 +8,7 @@
       <h1>Hi, I'm Avinash Kumar</h1>
       <h3>Full Stack Developer<br />React.js &bull; Next.js &bull; Node.js</h3>
       <p>
-        Building scalable web applications with modern JavaScript technologies.
+        <img src="./assets/hero-typewriter.svg" width="520" height="34" alt="Building scalable web applications. Crafting intuitive user experiences. Developing robust backend systems. Integrating AI into modern products. Optimizing performance for production." />
       </p>
       <p>
         I enjoy transforming ideas into polished digital products by combining intuitive user experiences, robust backend architecture, and AI-powered solutions that solve real-world problems.
