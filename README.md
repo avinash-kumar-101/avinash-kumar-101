@@ -1,65 +1,69 @@
 <div align="center">
 
-<img src="https://github.com/avinash-kumar-101.png?size=180" width="132" height="132" alt="Avinash Kumar" />
+<img src="https://github.com/avinash-kumar-101.png?size=180" width="126" height="126" alt="Avinash Kumar" />
 
 # Avinash Kumar
 
-**Full Stack Developer building MERN, Next.js, SQL, and AI-enabled web applications**
+**Full Stack Developer focused on MERN, Next.js, SQL performance, and AI-enabled product workflows**
 
+<a href="mailto:ak4234q@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ak4234q%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=111827" alt="Email Avinash Kumar" />
+</a>
+<a href="https://www.linkedin.com/in/avinash-kumar-dev1">
+  <img src="https://img.shields.io/badge/LinkedIn-avinash--kumar--dev1-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=111827" alt="LinkedIn profile" />
+</a>
 <a href="https://github.com/avinash-kumar-101">
   <img src="https://img.shields.io/badge/GitHub-avinash--kumar--101-0D1117?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=111827" alt="GitHub profile" />
 </a>
-<img src="https://img.shields.io/badge/Location-Bhagalpur%2C%20Bihar-0D1117?style=flat-square&labelColor=111827&color=1F6FEB" alt="Location: Bhagalpur, Bihar" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Full--Time%20Roles-0D1117?style=flat-square&labelColor=111827&color=238636" alt="Open to full-time software engineering opportunities" />
+<img src="https://img.shields.io/badge/Bhagalpur%2C%20Bihar-India-0D1117?style=flat-square&labelColor=111827&color=1F6FEB" alt="Bhagalpur, Bihar, India" />
 
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/identity-scan.svg" width="100%" alt="Animated identity scan for Avinash Kumar" />
 </div>
 
 <br />
 
 <table>
   <tr>
-    <td width="38%" valign="top">
-      <h3>Identity Scan</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Identity-Verified-0D1117?style=for-the-badge&labelColor=111827&color=1F6FEB" alt="Identity verified" />
-      </p>
+    <td width="34%" valign="top">
+      <h3>Identity</h3>
       <table>
         <tr>
           <td><sub><strong>ROLE</strong></sub></td>
           <td>Full Stack Developer</td>
         </tr>
         <tr>
-          <td><sub><strong>LOCATION</strong></sub></td>
+          <td><sub><strong>BASE</strong></sub></td>
           <td>Bhagalpur, Bihar, India</td>
         </tr>
         <tr>
           <td><sub><strong>EDUCATION</strong></sub></td>
-          <td>B.Tech, Computer Science Engineering, 2026</td>
+          <td>B.Tech CSE, Chandigarh Engineering College, 2026</td>
         </tr>
         <tr>
-          <td><sub><strong>STACK</strong></sub></td>
-          <td>MERN, Next.js, SQL, Gemini AI, VAPT</td>
+          <td><sub><strong>CGPA</strong></sub></td>
+          <td>7.5</td>
         </tr>
         <tr>
           <td><sub><strong>STATUS</strong></sub></td>
-          <td>Open to full-time software engineering opportunities</td>
+          <td>Open to full-time software engineering roles</td>
         </tr>
       </table>
     </td>
-    <td width="62%" valign="top">
+    <td width="66%" valign="top">
       <h3>Engineer Profile</h3>
       <p>
-        I build web applications across the frontend, API layer, database, and deployment surface.
-        My work connects interface quality with backend reliability, SQL performance, AI integration,
-        and security-aware implementation.
+        I am a 2026 Computer Science graduate with 1+ year of hands-on industry experience across five internships in full-stack development, SQL/database engineering, and cybersecurity.
       </p>
       <p>
-        The strongest signal in my work is range: React and Next.js interfaces, Node.js and Express APIs,
-        MongoDB and MySQL data work, Gemini AI integrations, and VAPT exposure through OWASP Top 10 practices.
+        My work sits at the intersection of React and Next.js interfaces, Node.js and Express APIs, MongoDB and MySQL data systems, Gemini AI integration, and OWASP-based security testing.
       </p>
       <p>
-        I care about shipping software that is clear in structure, measured in performance, and maintainable
-        after the first version is live.
+        I focus on software that reads cleanly, behaves predictably, and can survive real product use after the first release.
       </p>
     </td>
   </tr>
@@ -69,9 +73,9 @@
 
 ## About
 
-I am a full stack developer with hands-on experience across product engineering, SQL optimization, and application security. I have worked on web applications that combine responsive interfaces, API design, database-backed workflows, authentication, and AI-assisted collaboration features.
+I build web applications from the interface down to the data layer. My recent work includes a College ERP platform, an AI-driven meeting assistant, secure REST API modules, real-time attendance workflows, SQL performance tuning, and VAPT assessments on live web applications.
 
-My development style is practical: define the user flow clearly, keep the interface quiet, design APIs that are easy to reason about, and leave the implementation understandable for the next engineer who opens the codebase.
+I prefer direct engineering: clear flows, small API surfaces, responsive UI, measurable performance work, and security checks early enough that they shape the implementation rather than clean up after it.
 
 <br />
 
@@ -80,30 +84,30 @@ My development style is practical: define the user flow clearly, keep the interf
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Full Stack Delivery</h3>
-      <p>Built frontend and backend features using React.js, Next.js, Node.js, Express.js, MongoDB, and MySQL.</p>
+      <h3>Full Stack Systems</h3>
+      <p>Worked across MERN and Next.js applications, including frontend screens, backend APIs, authentication, and database-backed workflows.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>AI Product Work</h3>
-      <p>Created an AI-powered meeting assistant using Next.js, Stream SDK, and Gemini AI, reducing manual documentation effort by 70%.</p>
+      <h3>AI Product Layer</h3>
+      <p>Built an AI meeting assistant using Gemini AI that reduced manual documentation effort by 70%.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Security Awareness</h3>
-      <p>Worked with VAPT practices and OWASP Top 10 concepts through cybersecurity internship experience.</p>
+      <h3>Database Performance</h3>
+      <p>Improved SQL response speed by 30% and raised MongoDB retrieval speed by 25% through schema and query work.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>Database Focus</h3>
-      <p>Optimized SQL queries, improved database performance by 30%, and maintained accurate reporting datasets.</p>
+      <h3>API Delivery</h3>
+      <p>Built 15+ secure RESTful API endpoints with Node.js and Express.js for authentication and attendance logging.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Authentication</h3>
-      <p>Implemented secure application flows with REST APIs, JWT, and OAuth 2.0.</p>
+      <h3>Security Practice</h3>
+      <p>Performed VAPT on 5+ live web applications and reduced attack surfaces by 25% using OWASP-based testing.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Product Polish</h3>
-      <p>Built responsive interfaces with measured performance improvements, including 40% lower search latency in FlickFinder.</p>
+      <h3>Execution Quality</h3>
+      <p>Resolved 20+ frontend and backend issues, helped reduce post-release bugs, and supported QA cycles.</p>
     </td>
   </tr>
 </table>
@@ -114,7 +118,7 @@ My development style is practical: define the user flow clearly, keep the interf
 
 <table>
   <tr>
-    <td width="19%"><strong>Frontend</strong></td>
+    <td width="18%"><strong>Frontend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
       <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
@@ -129,7 +133,7 @@ My development style is practical: define the user flow clearly, keep the interf
     <td>
       <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js" />
-      <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/RESTful%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="RESTful APIs" />
       <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />
       <img src="https://img.shields.io/badge/OAuth%202.0-0D1117?style=flat-square&logo=auth0&logoColor=EB5424" alt="OAuth 2.0" />
     </td>
@@ -139,30 +143,40 @@ My development style is practical: define the user flow clearly, keep the interf
     <td>
       <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
       <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQL%20Advanced-0D1117?style=flat-square&logo=sqlite&logoColor=3A8DDE" alt="SQL Advanced" />
     </td>
   </tr>
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/JavaScript%20ES6%2B-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript ES6+" />
       <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=FFFFFF" alt="Java" />
       <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
       <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
-      <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=sqlite&logoColor=3A8DDE" alt="SQL" />
     </td>
   </tr>
   <tr>
     <td><strong>AI</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Gemini%20AI-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini AI" />
-      <img src="https://img.shields.io/badge/Stream%20SDK-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Stream SDK" />
+      <img src="https://img.shields.io/badge/Gemini%20AI%20Integration-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini AI Integration" />
+      <img src="https://img.shields.io/badge/Stream%20SDK-0D1117?style=flat-square&logoColor=58A6FF" alt="Stream SDK" />
     </td>
   </tr>
   <tr>
     <td><strong>Security</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Ethical%20Hacking-0D1117?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Ethical Hacking" />
       <img src="https://img.shields.io/badge/VAPT-0D1117?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="VAPT" />
       <img src="https://img.shields.io/badge/OWASP%20Top%2010-0D1117?style=flat-square&logo=owasp&logoColor=FFFFFF" alt="OWASP Top 10" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CS Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/DSA-0D1117?style=flat-square&labelColor=111827&color=30363D" alt="DSA" />
+      <img src="https://img.shields.io/badge/OOPS-0D1117?style=flat-square&labelColor=111827&color=30363D" alt="OOPS" />
+      <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=flat-square&labelColor=111827&color=30363D" alt="Operating Systems" />
+      <img src="https://img.shields.io/badge/DBMS-0D1117?style=flat-square&labelColor=111827&color=30363D" alt="DBMS" />
     </td>
   </tr>
   <tr>
@@ -170,12 +184,12 @@ My development style is practical: define the user flow clearly, keep the interf
     <td>
       <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
       <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+      <img src="https://img.shields.io/badge/Hoppscotch-0D1117?style=flat-square&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" />
       <img src="https://img.shields.io/badge/MySQL%20Workbench-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL Workbench" />
+      <img src="https://img.shields.io/badge/Docker%20Basics-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker Basics" />
       <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
       <img src="https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=46E3B7" alt="Render" />
-      <img src="https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=FFFFFF" alt="Railway" />
     </td>
   </tr>
 </table>
@@ -189,87 +203,49 @@ My development style is practical: define the user flow clearly, keep the interf
     <td width="50%" valign="top">
       <h3>Smart Meeting Assistant</h3>
       <p>
-        AI-powered video collaboration platform built around meeting summaries, action items,
-        secure authentication, screen sharing, and real-time conferencing. The project reduced
-        manual documentation effort by 70%.
+        AI video platform with real-time conferencing, screen sharing, and automated meeting intelligence.
+      </p>
+      <p>
+        <strong>Overview</strong><br />
+        Architected a low-latency video collaboration workflow using Next.js and Stream SDK, then added a Gemini AI layer for automated summaries.
       </p>
       <p>
         <strong>Tech</strong><br />
-        Next.js, Node.js, Stream SDK, Gemini AI, Tailwind CSS
+        Next.js, Stream SDK, Gemini AI
       </p>
       <p>
-        <strong>Features</strong><br />
-        Real-time video meetings, AI-generated summaries, automated action items, authentication, screen sharing.
+        <strong>Impact</strong><br />
+        Reduced manual documentation effort by 70%.
       </p>
       <p>
         <a href="https://github.com/avinash-kumar-101/Smart-Meeting-Assistant">
-          <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="View Smart Meeting Assistant repository" />
+          <img src="https://img.shields.io/badge/GitHub-View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="View Smart Meeting Assistant repository" />
         </a>
-        <img src="https://img.shields.io/badge/Live%20Demo-Unlisted-0D1117?style=for-the-badge&labelColor=111827&color=30363D" alt="Live demo unlisted" />
+        <img src="https://img.shields.io/badge/Live%20Demo-URL%20Needed-0D1117?style=for-the-badge&labelColor=111827&color=30363D" alt="Live demo URL needed" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>FlickFinder</h3>
+      <h3>Movie Discovery Platform</h3>
       <p>
-        Responsive movie discovery application using React.js and the TMDB API, focused on
-        search, trailer playback, local caching, and a fast browsing experience. React Hooks
-        and LocalStorage reduced search latency by 40%.
+        FlickFinder is a responsive movie discovery experience with real-time search, tracking, and trailer playback.
+      </p>
+      <p>
+        <strong>Overview</strong><br />
+        Built with React.js and the TMDB API, with React Hooks and LocalStorage caching to keep discovery fast.
       </p>
       <p>
         <strong>Tech</strong><br />
-        React.js, JavaScript, TMDB API, CSS3
+        React.js, JavaScript ES6+, TMDB API, CSS3
       </p>
       <p>
-        <strong>Features</strong><br />
-        Real-time movie search, trailer playback, LocalStorage caching, responsive UI, performance-focused browsing.
+        <strong>Impact</strong><br />
+        Reduced search latency by 40%.
       </p>
       <p>
         <a href="https://github.com/avinash-kumar-101/flickfinder">
-          <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="View FlickFinder repository" />
+          <img src="https://img.shields.io/badge/GitHub-View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="View FlickFinder repository" />
         </a>
-        <img src="https://img.shields.io/badge/Live%20Demo-Unlisted-0D1117?style=for-the-badge&labelColor=111827&color=30363D" alt="Live demo unlisted" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Sweet Shop Management System</h3>
-      <p>
-        MERN stack management system for a sweet shop workflow, built with a test-driven development approach.
-      </p>
-      <p>
-        <strong>Tech</strong><br />
-        MongoDB, Express.js, React.js, Node.js
-      </p>
-      <p>
-        <strong>Features</strong><br />
-        Management workflows, MERN architecture, backend API structure, test-driven implementation.
-      </p>
-      <p>
-        <a href="https://github.com/avinash-kumar-101/sweet-shop-management-system">
-          <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="View Sweet Shop Management System repository" />
-        </a>
-        <img src="https://img.shields.io/badge/Live%20Demo-Unlisted-0D1117?style=for-the-badge&labelColor=111827&color=30363D" alt="Live demo unlisted" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Personal Portfolio</h3>
-      <p>
-        Personal portfolio website for presenting engineering work, technical background, and project details.
-      </p>
-      <p>
-        <strong>Tech</strong><br />
-        JavaScript
-      </p>
-      <p>
-        <strong>Features</strong><br />
-        Portfolio structure, project presentation, developer profile, web-based personal brand surface.
-      </p>
-      <p>
-        <a href="https://github.com/avinash-kumar-101/avinash-portfolio">
-          <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="View portfolio repository" />
-        </a>
-        <img src="https://img.shields.io/badge/Live%20Demo-Unlisted-0D1117?style=for-the-badge&labelColor=111827&color=30363D" alt="Live demo unlisted" />
+        <img src="https://img.shields.io/badge/Live%20Demo-Resume%20Lists%20Link-0D1117?style=for-the-badge&labelColor=111827&color=1F6FEB" alt="Resume lists live link, URL not extracted" />
       </p>
     </td>
   </tr>
@@ -281,29 +257,29 @@ My development style is practical: define the user flow clearly, keep the interf
 
 <table>
   <tr>
-    <td width="20%"><strong>Viralstan</strong></td>
-    <td width="30%">Full Stack Developer Intern</td>
-    <td>Developed and maintained full-stack web applications, resolved frontend and backend issues, and contributed to production-facing features.</td>
+    <td width="24%"><strong>Viralstan</strong><br /><sub>Jan 2026 - May 2026 | On-site</sub></td>
+    <td width="26%">Full Stack Developer Intern</td>
+    <td>Developed and maintained parallel web application workstreams, resolved 20+ frontend/backend issues, improved turnaround time by close to 15%, and supported QA cycles that reduced post-release bug reports by nearly 10%.</td>
   </tr>
   <tr>
-    <td><strong>WEBTECHFLY</strong></td>
+    <td><strong>WEBTECHFLY</strong><br /><sub>Jan 2026 - May 2026 | Hybrid</sub></td>
     <td>MERN Stack Developer Intern</td>
-    <td>Built secure REST APIs, optimized MongoDB queries, and developed backend modules for authentication and real-time attendance workflows.</td>
+    <td>Restructured MongoDB schemas and aggregation pipelines to improve retrieval speed by 25%, and built 15+ secure RESTful API endpoints for authentication and real-time attendance logging.</td>
   </tr>
   <tr>
-    <td><strong>Celebal Technologies</strong><br /><sub>June - Aug 2025</sub></td>
+    <td><strong>Celebal Technologies</strong><br /><sub>June 2025 - Aug 2025 | Remote</sub></td>
     <td>SQL Intern</td>
-    <td>Optimized SQL queries, improved database performance by 30%, and maintained 100% data accuracy in testing environments.</td>
+    <td>Tuned complex SQL queries for 30% faster responses and audited datasets across module testing and reporting workflows.</td>
   </tr>
   <tr>
-    <td><strong>HighRadius Technologies</strong><br /><sub>May - June 2025</sub></td>
+    <td><strong>HighRadius</strong><br /><sub>May 2025 - June 2025 | Remote</sub></td>
     <td>Marketing Intern</td>
-    <td>Worked with CRM analytics and data-driven outreach strategies, improving lead engagement by 20%.</td>
+    <td>Used market and CRM data to support product-positioning decisions and improve lead engagement by 20%.</td>
   </tr>
   <tr>
-    <td><strong>Offdef Cyber Solutions LLP</strong><br /><sub>June - July 2024</sub></td>
+    <td><strong>Offdef Cyber Solutions LLP</strong><br /><sub>June 2024 - July 2024 | Remote</sub></td>
     <td>Ethical Hacking Intern</td>
-    <td>Performed VAPT on 5+ applications, identified vulnerabilities, reduced attack surface by 25%, and applied OWASP-based security practices.</td>
+    <td>Carried out VAPT on 5+ live web applications, reduced attack surfaces by 25%, and executed network security audits that strengthened threat detection frameworks by 40%.</td>
   </tr>
 </table>
 
@@ -326,10 +302,22 @@ My development style is practical: define the user flow clearly, keep the interf
 
 <table>
   <tr>
-    <td width="25%"><strong>Career Essentials in Generative AI</strong></td>
-    <td width="25%"><strong>Google Cloud GenAI Studio</strong></td>
-    <td width="25%"><strong>GenAI Powered Data Analytics</strong></td>
-    <td width="25%"><strong>Professional Certification in VAPT</strong></td>
+    <td width="25%" valign="top">
+      <strong>Generative AI</strong><br />
+      <sub>Career Essentials in Generative AI by Microsoft and LinkedIn</sub>
+    </td>
+    <td width="25%" valign="top">
+      <strong>Google Cloud</strong><br />
+      <sub>GenAI Studio</sub>
+    </td>
+    <td width="25%" valign="top">
+      <strong>AI and Analytics</strong><br />
+      <sub>Identity Security for the AI Age by Saviynt and GenAI Powered Data Analytics by Tata</sub>
+    </td>
+    <td width="25%" valign="top">
+      <strong>Cybersecurity</strong><br />
+      <sub>Professional Certification in VAPT by ACIC Rise Association, CEC Landran</sub>
+    </td>
   </tr>
 </table>
 
@@ -339,14 +327,20 @@ My development style is practical: define the user flow clearly, keep the interf
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="62%" valign="top">
       <strong>Open to full-time software engineering opportunities.</strong>
       <br />
-      I am most interested in roles where I can work across frontend systems, backend APIs, databases, and AI-enabled product workflows.
+      I am looking for engineering teams where frontend quality, backend reliability, database performance, and security awareness all matter.
     </td>
-    <td width="30%" align="right">
+    <td width="38%" align="right" valign="middle">
+      <a href="mailto:ak4234q@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827" alt="Email" />
+      </a>
+      <a href="https://www.linkedin.com/in/avinash-kumar-dev1">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827" alt="LinkedIn" />
+      </a>
       <a href="https://github.com/avinash-kumar-101">
-        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="GitHub" />
       </a>
     </td>
   </tr>

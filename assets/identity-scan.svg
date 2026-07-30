@@ -1,0 +1,106 @@
+<svg width="1040" height="420" viewBox="0 0 1040 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated identity scan panel for Avinash Kumar</title>
+  <desc id="desc">A dark premium developer dashboard with animated scanner lines, verification status, role, stack, location, and system metrics.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1040" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B12"/>
+      <stop offset="0.48" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0A1627"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="48" x2="976" y2="372" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0.1"/>
+      <stop offset="0.52" stop-color="#58A6FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0.14"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#58A6FF" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#7DD3FC"/>
+      <stop offset="0.55" stop-color="#58A6FF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="avatarClip">
+      <rect x="70" y="74" width="208" height="208" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1038" height="418" rx="24" fill="url(#panel)" stroke="#30363D" stroke-width="2"/>
+  <rect x="28" y="28" width="984" height="364" rx="18" fill="#0D1117" fill-opacity="0.42" stroke="url(#accent)" stroke-width="1"/>
+  <path d="M32 84H1008M32 336H1008" stroke="#1F6FEB" stroke-opacity="0.18"/>
+
+  <g opacity="0.32">
+    <path d="M62 54H162M878 54H978M62 366H162M878 366H978" stroke="#58A6FF" stroke-width="2"/>
+    <path d="M62 54V154M978 54V154M62 266V366M978 266V366" stroke="#58A6FF" stroke-width="2"/>
+  </g>
+
+  <g clip-path="url(#avatarClip)">
+    <rect x="70" y="74" width="208" height="208" rx="20" fill="#111827"/>
+    <circle cx="174" cy="178" r="62" fill="#182236" stroke="#58A6FF" stroke-opacity="0.4"/>
+    <text x="174" y="194" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#E6EDF3">AK</text>
+    <rect x="70" y="74" width="208" height="208" fill="url(#scan)" opacity="0.0">
+      <animate attributeName="x" values="-230;300" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.85;0" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <g opacity="0.38">
+      <path d="M70 126H278M70 178H278M70 230H278" stroke="#58A6FF"/>
+      <path d="M122 74V282M174 74V282M226 74V282" stroke="#58A6FF"/>
+    </g>
+  </g>
+  <rect x="70" y="74" width="208" height="208" rx="20" stroke="#58A6FF" stroke-opacity="0.45"/>
+  <rect x="96" y="300" width="156" height="34" rx="17" fill="#0A2540" stroke="#58A6FF" stroke-opacity="0.34"/>
+  <circle cx="116" cy="317" r="5" fill="#3FB950">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="132" y="322" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#DDEBFF">IDENTITY VERIFIED</text>
+
+  <g transform="translate(330 78)">
+    <text x="0" y="28" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4" fill="#58A6FF">PROFILE SCAN</text>
+    <text x="0" y="82" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="750" fill="#F0F6FC">Avinash Kumar</text>
+    <text x="2" y="116" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" fill="#C9D1D9">Full Stack Developer | MERN | Next.js | SQL | VAPT</text>
+    <line x1="0" y1="150" x2="618" y2="150" stroke="#30363D"/>
+
+    <g transform="translate(0 182)">
+      <rect x="0" y="0" width="184" height="68" rx="14" fill="#0B1220" stroke="#1F6FEB" stroke-opacity="0.3"/>
+      <text x="18" y="25" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#8B949E">LOCATION</text>
+      <text x="18" y="50" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650" fill="#E6EDF3">Bhagalpur, Bihar</text>
+    </g>
+    <g transform="translate(204 182)">
+      <rect x="0" y="0" width="184" height="68" rx="14" fill="#0B1220" stroke="#1F6FEB" stroke-opacity="0.3"/>
+      <text x="18" y="25" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#8B949E">EDUCATION</text>
+      <text x="18" y="50" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650" fill="#E6EDF3">B.Tech CSE, 2026</text>
+    </g>
+    <g transform="translate(408 182)">
+      <rect x="0" y="0" width="210" height="68" rx="14" fill="#0B1220" stroke="#238636" stroke-opacity="0.42"/>
+      <text x="18" y="25" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#8B949E">STATUS</text>
+      <text x="18" y="50" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650" fill="#E6EDF3">Open to full-time roles</text>
+    </g>
+  </g>
+
+  <g transform="translate(332 330)">
+    <rect x="0" y="0" width="620" height="30" rx="15" fill="#07101D" stroke="#30363D"/>
+    <rect x="8" y="8" width="122" height="14" rx="7" fill="#1F6FEB" fill-opacity="0.88">
+      <animate attributeName="width" values="72;122;92;146;122" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="144" y="8" width="96" height="14" rx="7" fill="#58A6FF" fill-opacity="0.62">
+      <animate attributeName="width" values="52;96;128;82;96" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="254" y="8" width="154" height="14" rx="7" fill="#3FB950" fill-opacity="0.68">
+      <animate attributeName="width" values="118;154;132;170;154" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="422" y="8" width="92" height="14" rx="7" fill="#7DD3FC" fill-opacity="0.52">
+      <animate attributeName="width" values="70;92;116;84;92" dur="3.9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="8" y="55" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#8B949E">MERN SYSTEMS / AI WORKFLOWS / DATABASE PERFORMANCE / SECURITY TESTING</text>
+  </g>
+
+  <rect x="-160" y="0" width="160" height="420" fill="url(#scan)" opacity="0.55" filter="url(#softGlow)">
+    <animate attributeName="x" values="-180;1060" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
