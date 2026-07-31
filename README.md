@@ -150,9 +150,8 @@
       </p>
       <p>
         <a href="https://github.com/avinash-kumar-101/Smart-Meeting-Assistant">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="View Smart Meeting Assistant repository" />
+          <img src="https://img.shields.io/badge/GitHub-View%20Repository-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=111827" alt="View Smart Meeting Assistant repository" />
         </a>
-        <img src="https://img.shields.io/badge/Live%20Demo-URL%20Needed-0D1117?style=for-the-badge&labelColor=111827&color=30363D" alt="Live demo URL needed" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -174,9 +173,11 @@
       </p>
       <p>
         <a href="https://github.com/avinash-kumar-101/flickfinder">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="View FlickFinder repository" />
+          <img src="https://img.shields.io/badge/GitHub-View%20Repository-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=111827" alt="View FlickFinder repository" />
         </a>
-        <img src="https://img.shields.io/badge/Live%20Demo-Resume%20Lists%20Link-0D1117?style=for-the-badge&labelColor=111827&color=1F6FEB" alt="Resume lists live link, URL not extracted" />
+        <a href="https://flickfinder-avi.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-1F6FEB?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=0D1117&color=1F6FEB" alt="Open FlickFinder live demo" />
+        </a>
       </p>
     </td>
   </tr>
