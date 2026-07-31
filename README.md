@@ -41,46 +41,7 @@
 
 <br />
 
-## About
-
-I build web applications from the interface down to the data layer. My recent work includes a College ERP platform, an AI-driven meeting assistant, secure REST API modules, real-time attendance workflows, SQL performance tuning, and VAPT assessments on live web applications.
-
-I prefer direct engineering: clear flows, small API surfaces, responsive UI, measurable performance work, and security checks early enough that they shape the implementation rather than clean up after it.
-
-<br />
-
-## Highlights
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Full Stack Systems</h3>
-      <p>Worked across MERN and Next.js applications, including frontend screens, backend APIs, authentication, and database-backed workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>AI Product Layer</h3>
-      <p>Built an AI meeting assistant using Gemini AI that reduced manual documentation effort by 70%.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Database Performance</h3>
-      <p>Improved SQL response speed by 30% and raised MongoDB retrieval speed by 25% through schema and query work.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>API Delivery</h3>
-      <p>Built 15+ secure RESTful API endpoints with Node.js and Express.js for authentication and attendance logging.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Security Practice</h3>
-      <p>Performed VAPT on 5+ live web applications and reduced attack surfaces by 25% using OWASP-based testing.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Execution Quality</h3>
-      <p>Resolved 20+ frontend and backend issues, helped reduce post-release bugs, and supported QA cycles.</p>
-    </td>
-  </tr>
-</table>
+<img src="./assets/about-section.svg" width="100%" alt="About section for Avinash Kumar with full stack systems, AI product layer, database performance, API delivery, security practice, execution quality, and direct engineering highlights." />
 
 <br />
 
