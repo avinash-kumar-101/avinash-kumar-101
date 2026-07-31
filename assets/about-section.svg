@@ -1,4 +1,4 @@
-<svg width="1120" height="870" viewBox="0 0 1120 870" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="aboutTitle aboutDesc">
+<svg width="1120" height="1010" viewBox="0 0 1120 1010" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="aboutTitle aboutDesc">
   <title id="aboutTitle">About Avinash Kumar</title>
   <desc id="aboutDesc">A premium dark about section with two concise paragraphs and a structured highlights grid.</desc>
   <style>
@@ -7,16 +7,16 @@
     .panel-soft { fill: #0F172A; stroke: #263241; stroke-width: 1; }
     .title { font: 700 38px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #F8FAFC; letter-spacing: 0; }
     .label { font: 700 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #94A3B8; letter-spacing: 1.4px; }
-    .card-title { font: 700 21px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #F8FAFC; letter-spacing: 0; }
-    .small-title { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #F8FAFC; letter-spacing: 0; }
+    .card-title { font: 700 19px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #F8FAFC; letter-spacing: 0; }
+    .small-title { font: 700 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #F8FAFC; letter-spacing: 0; }
     .copy { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #CBD5E1; letter-spacing: 0; }
-    .body { font: 500 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #CBD5E1; letter-spacing: 0; }
+    .body { font: 500 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif; fill: #CBD5E1; letter-spacing: 0; }
     .strong { font-weight: 700; fill: #F8FAFC; }
     .accent { fill: #3B82F6; }
     .icon { stroke: #58A6FF; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
   </style>
 
-  <rect class="bg" width="1120" height="870" rx="0"/>
+  <rect class="bg" width="1120" height="1010" rx="0"/>
 
   <text class="title" x="48" y="74">About</text>
   <rect class="accent" x="48" y="96" width="96" height="3" rx="1.5" opacity="0.85"/>
@@ -35,92 +35,92 @@
   </g>
 
   <g aria-label="Featured full stack systems card">
-    <rect class="panel" x="48" y="338" width="1024" height="152" rx="18"/>
-    <rect x="76" y="368" width="42" height="42" rx="12" fill="#0D1117" stroke="#263241"/>
-    <path class="icon" d="M89 389h16M89 397h22M89 381h10"/>
-    <path class="icon" d="M105 376l10 10-10 10"/>
-    <text class="label" x="138" y="383">CORE FOCUS</text>
-    <text class="card-title" x="138" y="421">Full Stack Systems</text>
-    <text class="body" x="138" y="454">
-      <tspan x="138" dy="0">Worked across </tspan><tspan class="strong">MERN</tspan><tspan> and </tspan><tspan class="strong">Next.js</tspan><tspan> applications, including frontend screens, backend APIs,</tspan>
-      <tspan x="138" dy="24">authentication, and database-backed workflows.</tspan>
+    <rect class="panel" x="48" y="338" width="1024" height="138" rx="18"/>
+    <rect x="76" y="366" width="40" height="40" rx="12" fill="#0D1117" stroke="#263241"/>
+    <path class="icon" d="M88 386h15M88 394h21M88 378h10"/>
+    <path class="icon" d="M104 374l10 10-10 10"/>
+    <text class="label" x="136" y="378">CORE FOCUS</text>
+    <text class="card-title" x="136" y="412">Full Stack Systems</text>
+    <text class="body" x="136" y="444">
+      <tspan x="136" dy="0">Worked across </tspan><tspan class="strong">MERN</tspan><tspan> and </tspan><tspan class="strong">Next.js</tspan><tspan> applications, including frontend screens, backend APIs,</tspan>
+      <tspan x="136" dy="24">authentication, and database-backed workflows.</tspan>
     </text>
   </g>
 
   <g aria-label="Highlights grid">
     <g>
-      <rect class="panel-soft" x="48" y="522" width="328" height="144" rx="16"/>
-      <rect x="72" y="546" width="34" height="34" rx="10" fill="#0D1117" stroke="#263241"/>
-      <path class="icon" d="M89 556v24M77 568h24M82 561l14 14M96 561l-14 14"/>
-      <text class="small-title" x="124" y="570">AI Product Layer</text>
-      <text class="body" x="124" y="601">
-        <tspan x="124" dy="0">Built an AI meeting assistant using</tspan>
-        <tspan x="124" dy="22" class="strong">Gemini AI</tspan><tspan> that reduced manual</tspan>
-        <tspan x="124" dy="22">documentation effort by 70%.</tspan>
+      <rect class="panel-soft" x="48" y="508" width="328" height="218" rx="16"/>
+      <rect x="76" y="536" width="40" height="40" rx="12" fill="#0D1117" stroke="#263241"/>
+      <path class="icon" d="M96 545v22M85 556h22M90 550l12 12M102 550l-12 12"/>
+      <text class="small-title" x="76" y="612">AI Product Layer</text>
+      <text class="body" x="76" y="645">
+        <tspan x="76" dy="0">Built an AI meeting assistant using</tspan>
+        <tspan x="76" dy="24" class="strong">Gemini AI</tspan><tspan> that reduced manual</tspan>
+        <tspan x="76" dy="24">documentation effort by 70%.</tspan>
       </text>
     </g>
 
     <g>
-      <rect class="panel-soft" x="396" y="522" width="328" height="144" rx="16"/>
-      <rect x="420" y="546" width="34" height="34" rx="10" fill="#0D1117" stroke="#263241"/>
-      <path class="icon" d="M426 557c0-4 22-4 22 0v16c0 4-22 4-22 0z"/>
-      <path class="icon" d="M426 557c0 4 22 4 22 0M426 565c0 4 22 4 22 0"/>
-      <text class="small-title" x="472" y="570">Database Performance</text>
-      <text class="body" x="472" y="601">
-        <tspan x="472" dy="0">Improved </tspan><tspan class="strong">SQL</tspan><tspan> response speed by 30%</tspan>
-        <tspan x="472" dy="22">and raised MongoDB retrieval</tspan>
-        <tspan x="472" dy="22">speed by 25%.</tspan>
+      <rect class="panel-soft" x="396" y="508" width="328" height="218" rx="16"/>
+      <rect x="424" y="536" width="40" height="40" rx="12" fill="#0D1117" stroke="#263241"/>
+      <path class="icon" d="M432 547c0-4 24-4 24 0v17c0 4-24 4-24 0z"/>
+      <path class="icon" d="M432 547c0 4 24 4 24 0M432 556c0 4 24 4 24 0"/>
+      <text class="small-title" x="424" y="612">Database Performance</text>
+      <text class="body" x="424" y="645">
+        <tspan x="424" dy="0">Improved </tspan><tspan class="strong">SQL</tspan><tspan> response speed by 30%</tspan>
+        <tspan x="424" dy="24">and raised MongoDB retrieval</tspan>
+        <tspan x="424" dy="24">speed by 25%.</tspan>
       </text>
     </g>
 
     <g>
-      <rect class="panel-soft" x="744" y="522" width="328" height="144" rx="16"/>
-      <rect x="768" y="546" width="34" height="34" rx="10" fill="#0D1117" stroke="#263241"/>
-      <circle class="icon" cx="785" cy="563" r="3"/>
-      <path class="icon" d="M785 566v10M773 576h24M773 576v-7M797 576v-7"/>
-      <text class="small-title" x="820" y="570">API Delivery</text>
-      <text class="body" x="820" y="601">
-        <tspan x="820" dy="0">Built 15+ secure </tspan><tspan class="strong">RESTful API</tspan><tspan> endpoints</tspan>
-        <tspan x="820" dy="22">with </tspan><tspan class="strong">Node.js</tspan><tspan> and Express.js for</tspan>
-        <tspan x="820" dy="22">authentication and attendance logging.</tspan>
+      <rect class="panel-soft" x="744" y="508" width="328" height="218" rx="16"/>
+      <rect x="772" y="536" width="40" height="40" rx="12" fill="#0D1117" stroke="#263241"/>
+      <circle class="icon" cx="792" cy="552" r="3"/>
+      <path class="icon" d="M792 556v10M780 566h24M780 566v-7M804 566v-7"/>
+      <text class="small-title" x="772" y="612">API Delivery</text>
+      <text class="body" x="772" y="645">
+        <tspan x="772" dy="0">Built 15+ secure </tspan><tspan class="strong">RESTful API</tspan><tspan> endpoints</tspan>
+        <tspan x="772" dy="24">with </tspan><tspan class="strong">Node.js</tspan><tspan> and Express.js for</tspan>
+        <tspan x="772" dy="24">authentication and attendance logging.</tspan>
       </text>
     </g>
 
     <g>
-      <rect class="panel-soft" x="48" y="696" width="328" height="144" rx="16"/>
-      <rect x="72" y="720" width="34" height="34" rx="10" fill="#0D1117" stroke="#263241"/>
-      <path class="icon" d="M89 726l13 5v9c0 8-6 13-13 16-7-3-13-8-13-16v-9z"/>
-      <path class="icon" d="M83 740l4 4 8-9"/>
-      <text class="small-title" x="124" y="744">Security Practice</text>
-      <text class="body" x="124" y="775">
-        <tspan x="124" dy="0">Performed </tspan><tspan class="strong">VAPT</tspan><tspan> on 5+ live web apps</tspan>
-        <tspan x="124" dy="22">and reduced attack surfaces by 25%</tspan>
-        <tspan x="124" dy="22">using OWASP-based testing.</tspan>
+      <rect class="panel-soft" x="48" y="750" width="328" height="218" rx="16"/>
+      <rect x="76" y="778" width="40" height="40" rx="12" fill="#0D1117" stroke="#263241"/>
+      <path class="icon" d="M96 786l13 5v9c0 8-6 13-13 16-7-3-13-8-13-16v-9z"/>
+      <path class="icon" d="M90 800l4 4 8-9"/>
+      <text class="small-title" x="76" y="854">Security Practice</text>
+      <text class="body" x="76" y="887">
+        <tspan x="76" dy="0">Performed </tspan><tspan class="strong">VAPT</tspan><tspan> on 5+ live web apps</tspan>
+        <tspan x="76" dy="24">and reduced attack surfaces by 25%</tspan>
+        <tspan x="76" dy="24">using OWASP-based testing.</tspan>
       </text>
     </g>
 
     <g>
-      <rect class="panel-soft" x="396" y="696" width="328" height="144" rx="16"/>
-      <rect x="420" y="720" width="34" height="34" rx="10" fill="#0D1117" stroke="#263241"/>
-      <path class="icon" d="M428 738l7 7 13-16"/>
-      <path class="icon" d="M426 750h22"/>
-      <text class="small-title" x="472" y="744">Execution Quality</text>
-      <text class="body" x="472" y="775">
-        <tspan x="472" dy="0">Resolved 20+ frontend and backend</tspan>
-        <tspan x="472" dy="22">issues, helped reduce post-release</tspan>
-        <tspan x="472" dy="22">bugs, and supported QA cycles.</tspan>
+      <rect class="panel-soft" x="396" y="750" width="328" height="218" rx="16"/>
+      <rect x="424" y="778" width="40" height="40" rx="12" fill="#0D1117" stroke="#263241"/>
+      <path class="icon" d="M432 799l7 7 13-16"/>
+      <path class="icon" d="M430 810h24"/>
+      <text class="small-title" x="424" y="854">Execution Quality</text>
+      <text class="body" x="424" y="887">
+        <tspan x="424" dy="0">Resolved 20+ frontend and backend</tspan>
+        <tspan x="424" dy="24">issues, helped reduce post-release</tspan>
+        <tspan x="424" dy="24">bugs, and supported QA cycles.</tspan>
       </text>
     </g>
 
     <g>
-      <rect class="panel-soft" x="744" y="696" width="328" height="144" rx="16"/>
-      <rect x="768" y="720" width="34" height="34" rx="10" fill="#0D1117" stroke="#263241"/>
-      <path class="icon" d="M774 730h22v16h-22zM779 730v-5h12v5M779 746v5h12v-5"/>
-      <text class="small-title" x="820" y="744">Direct Engineering</text>
-      <text class="body" x="820" y="775">
-        <tspan x="820" dy="0">Clear flows, small API surfaces,</tspan>
-        <tspan x="820" dy="22">responsive UI, measurable performance,</tspan>
-        <tspan x="820" dy="22">and early security checks.</tspan>
+      <rect class="panel-soft" x="744" y="750" width="328" height="218" rx="16"/>
+      <rect x="772" y="778" width="40" height="40" rx="12" fill="#0D1117" stroke="#263241"/>
+      <path class="icon" d="M780 789h24v17h-24zM785 789v-5h14v5M785 806v5h14v-5"/>
+      <text class="small-title" x="772" y="854">Direct Engineering</text>
+      <text class="body" x="772" y="887">
+        <tspan x="772" dy="0">Clear flows, small API surfaces,</tspan>
+        <tspan x="772" dy="24">responsive UI, measurable performance,</tspan>
+        <tspan x="772" dy="24">and early security checks.</tspan>
       </text>
     </g>
   </g>
